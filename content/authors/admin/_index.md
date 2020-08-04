@@ -4,7 +4,7 @@ title: Jesse Wolf
 
 # Username (this should match the folder name)
 authors:
-- admin
+- jwolfbio
 
 # Is this the primary user of the site?
 superuser: true
