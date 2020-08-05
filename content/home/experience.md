@@ -41,6 +41,7 @@ date_format = "Jan 2006"
   date_end = ""
   description = """
   Key duties:
+
   * Ensured high levels of customer service through thorough knowledge of programs and offerings
   * Resolved customer concerns
   * Assisted with training new staff
@@ -54,7 +55,7 @@ date_format = "Jan 2006"
   location = "Guelph, Ontario"
   date_start = "2017-07-01"
   date_end = "2018-04-30"
-  description = """Undergraduate thesis with Dr. Kevin McCann and Dr. Ryan Prosser."""
+  description = """
   Key duties:
   * Determined the impact of agricultural activity on sediment toxicity in the Long Point Conservation Area in Lake Erie using multiple invertebrate species to quantify biological endpoints
   """
@@ -66,11 +67,9 @@ date_format = "Jan 2006"
   location = "Hólar, Iceland"
   date_start = "2017-04-30"
   date_end = "2017-06-30"
-  description = """Visiting reseach intern under Dr. Camille Leblanc."""
+  description = """
   Key duties:
-  * Devised a methodological approach to age dwarf Arctic charr using
-otoliths. Handled lab specimens and utilized photomicroscopy to complete an
-otolith-based age assessment
+  * Devised a methodological approach to age dwarf Arctic charr using otoliths. Handled lab specimens and utilized photomicroscopy to complete an otolith-based age assessment
   """
   
   [[experience]]
@@ -80,10 +79,10 @@ otolith-based age assessment
   location = "Guelph, Ontario"
   date_start = "2015-04-30"
   date_end = "2016-08-31"
-  description = """Research technician under Dr. Rob McLaughlin."""
+  description = """
   Key duties:
   * Assessed consistent individual differences in trapped versus electrofished sea lamprey behaviour to improve trapping success
-    
+  """  
   [[experience]]
   title = "Interpretive Naturalist Materials Developer"
   company = "University of Guelph Arboretum"
@@ -91,7 +90,8 @@ otolith-based age assessment
   location = "Guelph, Ontario"
   date_start = "2014-04-30"
   date_end = "2014-08-31"
-  description = """"""
+  description = """
   Key duties:
   * Designed educational programs for a wide variety of age groups, created digital educational materials for website and print
+  """
 +++
